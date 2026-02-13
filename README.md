@@ -8,10 +8,10 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Random Forest
+2. Logistic Regression
+3. Extreme Gradient Boosting (XGBoost)
+4. Support Vector Machine (SVM)
 
 ## Program:
 ```
